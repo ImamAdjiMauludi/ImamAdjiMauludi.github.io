@@ -15,12 +15,12 @@ main:
   #   url: /teaching/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Imam_Master CV_LnD_Eng.pdf
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: /porto/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
   # - title: "Guide"
   #   url: /markdown/

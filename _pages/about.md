@@ -1,14 +1,43 @@
 ---
 permalink: /
-title: "Hello, welcome to my personal site 😊"
+title: "Hello, welcome to my personal spaces! 😊"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-This site is under construction ⚙️🔨
-![Under Constrution](/images/under-construcion.png)
+## Imam Adji Mauludi
+
+I am a fresh graduate from the Community Education Study Program (Pendidikan Masyarakat) at the State University of Jakarta with a strong passion to continue growing in the fields of Learning & Development, e-Learning Content Development, and Data Analytics. I have experience in designing and facilitating effective training programs, developing interactive content, and analyzing learning performance for better results.
+
+### Click the button below to see my work! 👇
+
+[Portfolio](https://imamadjimauludi.github.io/porto/){: .btn .btn--info .btn--large}
+
+## ✨ Skills
+
+### 🔹 Learning & Development
+
+- Designing need-based training curriculum
+- Managing Learning Management Systems (LMS Moodle)
+- Developing digital learning modules (H5P, Articulate Storyline & Lectora Inspire)
+- Facilitating training and skill development programs
+
+### 🔹 Content Development
+
+- Video editing (CapCut PC) and graphic design (Canva & Photoshop)
+- Managing websites using WordPress
+- Creating educational content and developing interactive learning materials
+
+### 🔹 Data & Analytics
+
+- Data visualization and interactive dashboards (Tableau & Excel)
+- Querying data with SQL for data-driven decision-making
+- Program performance evaluation using Importance Performance Analysis (IPA)
+
+<!-- This page is under construction ⚙️🔨
+![Under Constrution](/images/under-construcion.png) -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
