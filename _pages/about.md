@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello, welcome to my personal spaces! 😊"
+title: "Imam Adji Mauludi"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## Imam Adji Mauludi
+## About Me
 
 I am a fresh graduate from the Community Education Study Program (Pendidikan Masyarakat) at the State University of Jakarta with a strong passion to continue growing in the fields of Learning & Development, e-Learning Content Development, and Data Analytics. I have experience in designing and facilitating effective training programs, developing interactive content, and analyzing learning performance for better results.
 

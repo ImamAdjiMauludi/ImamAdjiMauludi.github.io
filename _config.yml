@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Imam Adji Site"
+title: "ImamAdji"
 title_separator: "-"
 name: &name "Imam Adji"
 description: &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar: "profile.png"
   name: "Imam Adji Mauludi"
   pronouns: # example: "she/her"
-  bio: "Hello 👋. I'm a Instructional Designer, e-Learning Content Developer, and Academic Operaions."
+  bio: "Hello 👋 I'm a Instructional Designer, e-Learning Content Developer, and Academic Operaions."
   location: "Jakarta, Indonesia"
   # employer: "-"
   uri: # URL

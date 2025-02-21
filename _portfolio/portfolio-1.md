@@ -1,7 +1,41 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Learning module for MSIB Mentoring Program at Growth Hub Indonesia"
+excerpt: 'This e-module was created to support the MSIB Mentoring Program at Growth Hub Indonesia, which is attended by more than 2000 Indonesian students. <br/><img src="/images/porto/porto 1_1.png" width="300" alt="thumb1"> <img src="/images/porto/porto 1_2.png" width="300" alt="thumb2">'
 collection: portfolio
+gallery:
+  - url: /porto/porto 1_1.png
+    image_path: /porto/porto 1_1.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /porto/porto 1_2.png
+    image_path: /porto/porto 1_2.png
+    alt: "placeholder image 22"
+    title: "Image 2 title caption"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/f1a56e7b0f.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
+<!-- 
+{% include gallery caption="Screenshot example of e-learning module." class="full" %} -->
+
+## Project Details
+
+### **Short Description 💡**
+
+E-learning module with material on CV (Curriculum Vitae) Making Module Making a Good CV for the MSIB Mentoring Program at Growth Hub Indonesia.
+
+### **Responsibilities ✍️**
+
+- Conducting research to identify and curate relevant learning materials.
+- Developing and organizing comprehensive module content.
+- Creating visual illustrations to enhance learning module engagement and comprehension.
+
+### **Tools Used ⚙️**
+
+- Canva.
+- Google Docs.
+
+### **Soft Skills Developed 📈**
+
+- Research Skills: Ability to efficiently gather, evaluate, and synthesize relevant learning materials.
+- Attention to Detail: Ensuring accuracy and clarity in both content and illustrations.
+- Creativity: Designing engaging illustrations and visual content to enhance learner comprehension.
