@@ -1,6 +1,6 @@
 ---
 title: "Learning module for MSIB Mentoring Program at Growth Hub Indonesia"
-excerpt: 'This e-module was created to support the MSIB Mentoring Program at Growth Hub Indonesia, which is attended by more than 2000 Indonesian students. <br/><img src="/images/porto/porto 1_1.png" width="300" alt="thumb1"> <img src="/images/porto/porto 1_2.png" width="300" alt="thumb2">'
+excerpt: 'This is one of six examples of e-modules created to support the MSIB Mentoring Program at Growth Hub Indonesia, attended by more than 2,000 Indonesian students. <br/><img src="/images/porto/porto 1_1.png" width="300" alt="thumb1"> <img src="/images/porto/porto 1_2.png" width="300" alt="thumb2">'
 collection: portfolio
 gallery:
   - url: /porto/porto 1_1.png
@@ -21,7 +21,7 @@ gallery:
 
 ### **Short Description 💡**
 
-E-learning module with material on CV (Curriculum Vitae) Making Module Making a Good CV for the MSIB Mentoring Program at Growth Hub Indonesia.
+Example one of six E-learning module with material. This is 'Creating a Good CV' module for the MSIB Mentoring Program at Growth Hub Indonesia.
 
 ### **Responsibilities ✍️**
 

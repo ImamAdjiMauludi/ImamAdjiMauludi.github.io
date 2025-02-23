@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am a fresh graduate from the Community Education Study Program (Pendidikan Masyarakat) at the State University of Jakarta with a strong passion to continue growing in the fields of Learning & Development, e-Learning Content Development, and Data Analytics. I have experience in designing and facilitating effective training programs, developing interactive content, and analyzing learning performance for better results.
+I am a fresh graduate from the Community Education Study Program (Pendidikan Masyarakat) at the State University of Jakarta with a strong passion to continue growing in the fields of Learning & Development, e-Learning Content Development, Community Development, and Ed-tech. I have experience in designing and facilitating effective training programs, developing interactive content, and analyzing learning performance using data for better results.
 
-### Click the button below to see my work! 👇
+### Click the button below to see my work! 👇 (Still updating)
 
-[Portfolio](https://imamadjimauludi.github.io/porto/){: .btn .btn--info .btn--large}
+[Portfolio](https://imamadjimauludi.github.io/portfolio/){: .btn .btn--info .btn--large}
 
 ## ✨ Skills
 
