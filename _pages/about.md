@@ -19,22 +19,22 @@ I am a fresh graduate from the Community Education Study Program (Pendidikan Mas
 
 ### 🔹 Learning & Development
 
-- Designing need-based training curriculum
-- Managing Learning Management Systems (LMS Moodle)
-- Developing digital learning modules (H5P, Articulate Storyline & Lectora Inspire)
-- Facilitating training and skill development programs
+- Designing need-based training curriculum.
+- Managing Learning Management Systems (LMS Moodle).
+- Developing digital learning modules (H5P, iSpring, and Lectora Inspire).
+- Facilitating training and skill development programs.
 
 ### 🔹 Content Development
 
-- Video editing (CapCut PC) and graphic design (Canva & Photoshop)
-- Managing websites using WordPress
-- Creating educational content and developing interactive learning materials
+- Video editing (CapCut PC) and graphic design (Canva & Photoshop).
+- Managing websites using WordPress.
+- Creating educational content and developing interactive learning materials.
 
 ### 🔹 Data & Analytics
 
-- Data visualization and interactive dashboards (Tableau & Excel)
-- Querying data with SQL for data-driven decision-making
-- Program performance evaluation using Importance Performance Analysis (IPA)
+- Data visualization and interactive dashboards (Tableau & Excel).
+- Querying data with SQL for data-driven decision-making.
+- Program performance evaluation using Importance Performance Analysis (IPA).
 
 <!-- This page is under construction ⚙️🔨
 ![Under Constrution](/images/under-construcion.png) -->
