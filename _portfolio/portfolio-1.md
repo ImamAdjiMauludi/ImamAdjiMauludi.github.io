@@ -1,6 +1,6 @@
 ---
 title: "Learning module for MSIB Mentoring Program at Growth Hub Indonesia"
-excerpt: 'This is one of six examples of e-modules created to support the MSIB Mentoring Program at Growth Hub Indonesia, attended by more than 2,000 Indonesian students. <br/><img src="/images/porto/porto 1_1.png" width="300" alt="thumb1"> <img src="/images/porto/porto 1_2.png" width="300" alt="thumb2">'
+excerpt: 'This is one of six examples of e-modules created to support the MSIB Mentoring Program at Growth Hub Indonesia, attended by more than 2,000 Indonesian students. <br/><br/><img src="/images/porto/porto 1_1.png" width="300" alt="thumb1"> <img src="/images/porto/porto 1_2.png" width="300" alt="thumb2">'
 collection: portfolio
 gallery:
   - url: /porto/porto 1_1.png

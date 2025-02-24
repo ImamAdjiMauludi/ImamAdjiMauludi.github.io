@@ -1,6 +1,6 @@
 ---
 title: "LMS Project - Wisdom Idea"
-excerpt: 'An LMS called Wisdom Idea was developed for Web Based Training college assignments, worked on in groups. <br/><img src="/images/porto/porto_2_1.png" width="300" alt="thumb21"> <img src="/images/porto/porto_2_3.png" width="300" alt="thumb23">'
+excerpt: 'An LMS called Wisdom Idea was developed for Web Based Training college assignments, worked on in groups. <br/><br/><img src="/images/porto/porto_2_1.png" width="300" alt="thumb21"> <img src="/images/porto/porto_2_3.png" width="300" alt="thumb23">'
 collection: portfolio
 gallery:
   - url: /porto/porto_2_1.png

@@ -1,6 +1,6 @@
 ---
-title: "Google Workspace for PKK members"
-excerpt: 'Introduce Google Workspace to PKK members in Cipinang, helping them manage documents and correspondence more efficiently. <br/><img src="/images/porto/googleW_1.jpg" width="300" alt="thumb1"> <img src="/images/porto/googleW_6.jpg" width="300" alt="thumb2">'
+title: "Google Workspace Training for PKK members"
+excerpt: 'Introduce Google Workspace to PKK members in Cipinang, helping them manage documents and correspondence more efficiently. <br/><br/><img src="/images/porto/googleW_1.jpg" width="300" alt="thumb1"> <img src="/images/porto/googleW_6.jpg" width="300" alt="thumb2">'
 collection: portfolio
 gallery:
   - url: /porto/googleW_1.jpg
